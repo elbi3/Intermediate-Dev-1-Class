@@ -1,6 +1,6 @@
 # Coursework Repository
 
-This repository contains assignments from various web and Node.js courses.
+This repository contains assignments for my Node.js web development course.
 
 Most folders represent small, focused exercises completed as part of coursework.
 For full-scale, production-style projects, see my pinned repositories:
